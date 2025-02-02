@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/abdelmoez-mohamed-41734b305/" target="_blank"><img src="https://img.shields.io/badge/-Abdelmoez%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abdelmoez-mohamed-41734b305/" target="_blank"><img src="https://img.shields.io/badge/-Abdelmoez%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://facebook.com/abdelmoez.ali.520/" target="_blank"><img src="https://img.shields.io/badge/-Abdelmoez%20Mohamed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 
